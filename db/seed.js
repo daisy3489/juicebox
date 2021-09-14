@@ -1,4 +1,4 @@
-// // inside db/seed.js
+// inside db/seed.js
 const {  
   client,
   createUser,
